@@ -1,0 +1,2 @@
+# MediaWiki
+MediaWiki for configurations
